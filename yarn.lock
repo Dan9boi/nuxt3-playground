@@ -653,6 +653,11 @@
   dependencies:
     "@types/node" "*"
 
+"@types/siema@^1.4.7":
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/@types/siema/-/siema-1.4.7.tgz#9cd3fc062f8b9e819aca46e1eb63101483614e08"
+  integrity sha512-3LVghk3WpOy0RnUUWZ+cdgYDVAhNdLVEdvtHIzJg+7+j1VCaivryttdQv8forq8a+Po/XWwwbuhqOVzPAd3W/Q==
+
 "@types/tough-cookie@*":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-4.0.1.tgz#8f80dd965ad81f3e1bc26d6f5c727e132721ff40"
@@ -4863,6 +4868,11 @@ side-channel@^1.0.4:
     call-bind "^1.0.0"
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
+
+siema@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/siema/-/siema-1.5.1.tgz#eff312b77e8340fa4d81d5d053ebbeb9113ff888"
+  integrity sha1-7/MSt36DQPpNgdXQU+u+uRE/+Ig=
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.6"
